@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bendikaas/Programmering/projects/mlops/mlruns/0/f51959941f24448aa2cd11683d242869/artifacts
+end_time: 1743674596948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f51959941f24448aa2cd11683d242869
+run_uuid: f51959941f24448aa2cd11683d242869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743674595852
+status: 3
+tags: []
+user_id: bendikaas
